@@ -17,4 +17,4 @@ Green Blocks heal you
 </ui>
 
 # Watch Gameplay video here
-<a href=https://www.youtube.com/watch?v=VlRgb-PE7xU"><img src="https://www.youtube.com/watch?v=VlRgb-PE7xU/0.jpg" width="240" height="180"></a>
+<a href=https://www.youtube.com/watch?v=VlRgb-PE7xU"><img src="https://user-images.githubusercontent.com/23034890/34437659-46ebbfe0-ecb1-11e7-8c37-df303dcf9f91.jpg" width="240" height="180"></a>
